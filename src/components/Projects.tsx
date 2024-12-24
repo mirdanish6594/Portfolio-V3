@@ -8,7 +8,7 @@ const projects = [
     title: "HR Dashboard",
     description: "Created an HR dashboard in Tableau, providing insightful visualizations and data-driven metrics for workforce analysis and decision-making.",
     image: "/images/hr-dashboard.png",
-    tags: ["Python", "Flask", "OpenCV", "PostgreSQL"],
+    tags: ["Excel", "Tableau"],
     link: "https://public.tableau.com/app/profile/danish.mir1812/viz/HRDashboardProject_17221797463460/HRSummary"
   },
   {
