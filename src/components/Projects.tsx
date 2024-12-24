@@ -7,28 +7,28 @@ const projects = [
   {
     title: "HR Dashboard",
     description: "Created an HR dashboard in Tableau, providing insightful visualizations and data-driven metrics for workforce analysis and decision-making.",
-    image: "assets/images/hr-dashboard.png",
+    image: "../assets/images/hr-dashboard.png",
     tags: ["Python", "Flask", "OpenCV", "PostgreSQL"],
     link: "https://public.tableau.com/app/profile/danish.mir1812/viz/HRDashboardProject_17221797463460/HRSummary"
   },
   {
     title: "ReactorAnalyzer",
     description: "Interactive dashboard for visualizing and analyzing chemical reactor performance using Python and Streamlit.",
-    image: "assets/images/reactor.png",
+    image: "../assets/images/reactor.png",
     tags: ["Python", "Pandas", "Streamlit", "Plotly"],
     link: "https://github.com/mirdanish6594/ReactorAnalyzer"
   },
   {
     title: "Snake Game AI",
     description: "Reinforcement learning project implementing Q-learning for an intelligent Snake game agent. And plots showing the agents learning curve.",
-    image: "assets/images/snake.png",
+    image: "../assets/images/snake.png",
     tags: ["Python", "Q-Learning", "AI", "PyGame", "Matplotlib"],
     link: "https://github.com/mirdanish6594/SnakeAI-ReinforcementLearning"
   },
   {
     title: "Light Monitoring System",
     description: "A real-time monitoring system for street lights. It provides continuous monitoring of leakage current and earthing status for electrical poles.",
-    image: "assets/images/iot.png",
+    image: "../assets/images/iot.png",
     tags: ["React", "TypeScript", "Vite", "Firebase", "Leaflet Maps", "TailwindCSS"],
     link: "https://github.com/mirdanish6594/IOT-Dashboard"
   }
