@@ -12,7 +12,7 @@ export default function App() {
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900">
       <nav className="fixed w-full backdrop-blur-md bg-slate-900/50 z-50 py-4 border-b border-white/10">
         <div className="container mx-auto px-4 flex justify-between items-center">
-          <span className="text-indigo-400 font-bold text-xl">DM</span>
+          <span className="text-indigo-400 font-bold text-xl"><a href="https://portfolio-mirdanish.vercel.app/">DM</a></span>
           <div className="flex gap-6">
             <a href="#about" className="text-slate-200 hover:text-indigo-400 transition">About</a>
             <a href="#skills" className="text-slate-200 hover:text-indigo-400 transition">Skills</a>
