@@ -46,7 +46,7 @@ export default function Skills() {
     {
       icon: Palette,
       title: "Design",
-      skills: ["Figma", "Canva", "Photoshop", "UI/UX", "Wireframing"]
+      skills: ["Figma", "Canva", "Photoshop", "Indesign", "Gimp", "UI/UX", "Wireframing"]
     }
   ];
 
