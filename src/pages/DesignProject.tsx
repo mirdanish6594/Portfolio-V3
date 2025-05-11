@@ -6,7 +6,7 @@ import AnimatedText from '../components/ui/AnimatedText';
 import ImageModal from '../components/ui/ImageModal';
 
 const projectData = {
-  ecolife: {
+  TEDx: {
     title: "TEDx NIT Srinagar 2024",
     description: "A cohesive set of visual designs created for TEDx NIT Srinagar 2024, capturing the theme 'Reimagining Boundaries' across various event materials including brochures, tickets, and ID cards.",
     challenge: "Design a consistent and visually striking identity that reflects TEDx’s core values of innovation and bold thinking, while aligning with the event theme and ensuring practical usability across print assets.",
@@ -18,7 +18,7 @@ const projectData = {
     ],
     deliverables: ["Event Brochure", "Ticket Design", "ID Card Design", "Typography & Color System", "Print-Ready Assets"]
   },
-  fintech: {
+  GDSC: {
     title: "GDSC Club 2024",
     description: "A visually immersive interface design for GDSC (Google Developer Student Clubs) 2024, tailored for showcasing roles, teams, and events with a modern tech-forward aesthetic suitable for social media and web platforms.",
     challenge: "Create an engaging and modern design system that visually represents the collaborative and innovative spirit of GDSC, while maintaining clarity and usability across different formats like Instagram posts or digital portfolios.",
@@ -30,7 +30,7 @@ const projectData = {
     ],
     deliverables: ["Glassmorphism Role Cards", "Instagram Grid Layout Design", "Responsive Web UI Concept", "Minimal Icon System", "Typography and Color Palette"]
   },
-  "social-campaign": {
+  CurveElectric: {
     title: "Curve Electric",
     description: "A series of promotional banners and Instagram posts designed for Curve Electric’s electric cycle campaign in Srinagar, combining sustainability messaging with local visual appeal.",
     challenge: "Create eye-catching promotional content that communicates Curve Electric’s eco-friendly mission while resonating with a local audience in Srinagar.",
@@ -42,7 +42,7 @@ const projectData = {
     ],
     deliverables: ["Social Media Templates", "Story Highlights", "Animation", "Campaign Strategy", "Content Calendar"]
   },
-  print: {
+  Miscellaneous: {
     title: "Miscellaneous",
     description: "A collection of diverse design projects including event posters, promotional banners, flyers, and digital social media content created for various clients and college events.",
     challenge: "Design versatile, engaging visuals for multiple formats and audiences, each with unique themes, brand requirements, and purposes—ranging from tech events to cultural festivals and brand promotions.",
