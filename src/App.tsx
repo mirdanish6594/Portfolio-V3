@@ -19,7 +19,7 @@ export default function App() {
             <nav className="fixed w-full backdrop-blur-md bg-slate-900/50 z-50 py-4 border-b border-white/10">
               <div className="container mx-auto px-4 flex justify-between items-center">
                 <span className="text-indigo-400 font-bold text-xl"><a href= "mirdanish.me">DM</a></span>
-                <div className="flex gap-6">
+                <div className="flex gap-x-4">
                   <a href="#about" className="text-sm text-slate-200 hover:text-indigo-400 transition">About</a>
                   <a href="#skills" className="text-sm text-slate-200 hover:text-indigo-400 transition">Skills</a>
                   <a href="#design-projects" className="text-sm text-slate-200 hover:text-indigo-400 transition">Design</a>
