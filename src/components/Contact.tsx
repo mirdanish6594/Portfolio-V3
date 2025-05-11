@@ -1,5 +1,6 @@
 import React from 'react';
 import emailjs from "emailjs-com";
+import { FaBehance } from 'react-icons/fa';
 import { Mail, Github, Linkedin } from 'lucide-react';
 import GlassCard from './ui/GlassCard';
 import AnimatedText from './ui/AnimatedText';
@@ -44,6 +45,9 @@ export default function Contact() {
               </a>
               <a href="mailto:mirdanish6594@gmail.com" className="text-slate-300 hover:text-indigo-400 transition transform hover:scale-110">
                 <Mail className="w-8 h-8" />
+              </a>
+              <a href="https://www.behance.net/mirdanish" className="text-slate-300 hover:text-indigo-400 transition transform hover:scale-110">
+                <FaBehance className="w-8 h-8" />
               </a>
             </div>
           </AnimatedText>

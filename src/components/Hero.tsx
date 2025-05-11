@@ -11,16 +11,23 @@ export default function Hero() {
   };
 
   const roles = [
-    "Data Analyst",
     "Developer",
-    "ML Engineer",
     "Designer",
+    "Data Engineer",
     "Problem Solver"
   ];
 
   return (
-    <div className="min-h-screen flex items-center justify-center pt-16 relative">
-      <div className="absolute inset-0 bg-gradient-to-br from-indigo-600/30 via-purple-600/20 to-slate-900/30 pointer-events-none animate-gradient" />
+    <div 
+      className="min-h-screen flex items-center justify-center pt-16 relative"
+      style={{
+        backgroundImage: "url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80')",
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundAttachment: 'fixed'
+      }}
+    >
+      <div className="absolute inset-0 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-indigo-900/70 pointer-events-none" />
       <div className="container mx-auto px-4 relative">
         <div className="max-w-3xl mx-auto text-center">
           <AnimatedText delay={200}>
@@ -46,13 +53,13 @@ export default function Hero() {
 
           <AnimatedText delay={800}>
             <p className="text-xl text-slate-300 mb-12">
-              Crafting meaningful digital experiences and data-driven solutions with passion and innovation.
+              Crafting meaningful digital experiences, designs and data-driven solutions with passion and innovation.
             </p>
           </AnimatedText>
 
           <AnimatedText delay={1000}>
-            <div className="flex flex-col items-center gap-8">
-              <div className="flex gap-4 justify-center">
+            <div className="flex flex-col items-center">
+              <div className="flex gap-4 justify-center mb-16">
                 <a 
                   href="#contact"
                   className="inline-flex items-center gap-2 bg-indigo-600/80 hover:bg-indigo-600 text-white px-8 py-3 rounded-lg transition-all duration-300 backdrop-blur-sm hover:scale-105 hover:shadow-lg hover:shadow-indigo-500/25"
@@ -68,7 +75,7 @@ export default function Hero() {
               </div>
               <button 
                 onClick={scrollToNext}
-                className="text-white/50 hover:text-white transition-colors duration-300 animate-bounce mt-12"
+                className="text-white/50 hover:text-white transition-colors duration-300 animate-bounce"
               >
                 <ChevronDown className="w-8 h-8" />
               </button>
