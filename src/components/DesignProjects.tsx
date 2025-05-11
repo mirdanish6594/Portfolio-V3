@@ -9,28 +9,28 @@ const designProjects = [
     title: "TEDx NIT Srinagar 2024",
     description: "A cohesive set of visual designs created for TEDx NIT Srinagar 2024, capturing the theme 'Reimagining Boundaries'.",
     image: "/images/TEDx/TED-1.png",
-    path: "/designs/ecolife",
+    path: "/designs/TEDx",
     tags: ["Branding", "Print-Ready Assets", "Marketing"]
   },
   {
     title: "GDSC Club 2024",
     description: "A visually immersive interface design for GDSC 2024, tailored for showcasing roles, teams, and events with a modern tech-forward aesthetic suitable for social media and web platforms.",
     image: "/images/GDSC/GDSC-1.png",
-    path: "/designs/fintech",
+    path: "/designs/GDSC",
     tags: ["UI/UX", "Glassmorphism", "Instagram Grid Layout Design"]
   },
   {
     title: "Curve Electric",
     description: "A series of promotional banners and Instagram posts designed for Curve Electric’s campaign in Srinagar, combining sustainability messaging with local visual appeal.",
     image: "/images/Curve/curve-1.png",
-    path: "/designs/social-campaign",
+    path: "/designs/CurveElectric",
     tags: ["Social Media", "Promotional Banners", "Sustainability Campaign"]
   },
   {
     title: "Miscellaneous",
     description: "A collection of diverse design projects including event posters, promotional banners, flyers, and digital social media content created for various clients and college events.",
     image: "/images/Miscellaneous/mis-1.png",
-    path: "/designs/print",
+    path: "/designs/Miscellaneous",
     tags: ["Print Design", "Typography", "Layout"]
   }
 ];
