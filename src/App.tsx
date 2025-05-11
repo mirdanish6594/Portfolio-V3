@@ -20,11 +20,11 @@ export default function App() {
               <div className="container mx-auto px-4 flex justify-between items-center">
                 <span className="text-indigo-400 font-bold text-xl"><a href= "mirdanish.me">DM</a></span>
                 <div className="flex gap-6">
-                  <a href="#about" className="text-slate-200 hover:text-indigo-400 transition">About</a>
-                  <a href="#skills" className="text-slate-200 hover:text-indigo-400 transition">Skills</a>
-                  <a href="#design-projects" className="text-slate-200 hover:text-indigo-400 transition">Design</a>
-                  <a href="#projects" className="text-slate-200 hover:text-indigo-400 transition">Projects</a>
-                  <a href="#contact" className="text-slate-200 hover:text-indigo-400 transition">Contact</a>
+                  <a href="#about" className="text-sm text-slate-200 hover:text-indigo-400 transition">About</a>
+                  <a href="#skills" className="text-sm text-slate-200 hover:text-indigo-400 transition">Skills</a>
+                  <a href="#design-projects" className="text-sm text-slate-200 hover:text-indigo-400 transition">Design</a>
+                  <a href="#projects" className="text-sm text-slate-200 hover:text-indigo-400 transition">Projects</a>
+                  <a href="#contact" className="text-sm text-slate-200 hover:text-indigo-400 transition">Contact</a>
                 </div>
               </div>
             </nav>
