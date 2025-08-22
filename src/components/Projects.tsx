@@ -5,11 +5,11 @@ import AnimatedText from './ui/AnimatedText';
 
 const projects = [
   {
-    title: "HR Dashboard",
-    description: "Created an HR dashboard in Tableau, providing insightful visualizations and data-driven metrics for workforce analysis and decision-making.",
-    image: "/images/hr-dashboard.png",
-    tags: ["Excel", "Tableau"],
-    link: "https://public.tableau.com/app/profile/danish.mir1812/viz/HRDashboardProject_17221797463460/HRSummary"
+    title: "Gulshan Edu",
+    description: "Created a modern, responsive website for Gulshan Educational Society, offering easy access to programs, admissions, and updates.",
+    image: "/images/gulshan.png",
+    tags: ["React", "JavaScript", "Git", "Vercel"],
+    link: "http://gulshanedu.in"
   },
   {
     title: "ReactorAnalyzer",
@@ -26,11 +26,11 @@ const projects = [
     link: "https://github.com/mirdanish6594/SnakeAI-ReinforcementLearning"
   },
   {
-    title: "Light Monitoring System",
-    description: "A real-time monitoring system for street lights. It provides continuous monitoring of leakage current and earthing status for electrical poles.",
-    image: "/images/iot.png",
-    tags: ["React", "TypeScript", "Vite", "Firebase", "Leaflet Maps", "TailwindCSS"],
-    link: "https://github.com/mirdanish6594/IOT-Dashboard"
+    title: "HR Dashboard",
+    description: "Created an HR dashboard in Tableau, providing insightful visualizations and data-driven metrics for workforce analysis and decision-making.",
+    image: "/images/hr-dashboard.png",
+    tags: ["Excel", "Tableau"],
+    link: "https://public.tableau.com/app/profile/danish.mir1812/viz/HRDashboardProject_17221797463460/HRSummary"
   }
 ];
 
